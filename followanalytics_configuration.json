@@ -3,22 +3,22 @@
   { 
     "debug":
     {
-      "apiKey" : null
+      "apiKey" : "UTLYwY60RzLRSA"
     },
     "release":
     {
-      "apiKey" : null
+      "apiKey" : "UTLYwY60RzLRSA"
     }
   },
   "ios" :
   { 
     "debug":
     {
-      "apiKey" : null
+      "apiKey" : "UTLYwY60RzLRSA"
     },
     "release":
     {
-      "apiKey" : null
+      "apiKey" : "UTLYwY60RzLRSA"
     }
   }
 }
